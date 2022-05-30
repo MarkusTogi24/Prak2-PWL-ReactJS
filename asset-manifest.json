@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cb13dc0.css",
+    "main.js": "/static/js/main.30db071e.js",
+    "static/media/PasFoto.jpg": "/static/media/PasFoto.fd46eec5a56902452ea3.jpg",
+    "static/media/Logo_ITERA.jpg": "/static/media/Logo_ITERA.bc7fa3a999c1c3cf2b46.jpg",
+    "static/media/PolyGrid.svg": "/static/media/PolyGrid.8a4788a550f890f926c1.svg",
+    "static/media/polygon-scatter-2.svg": "/static/media/polygon-scatter-2.28a604322852ae594156.svg",
+    "index.html": "/index.html",
+    "static/media/polygon-scatter.svg": "/static/media/polygon-scatter.d1e3d2e856b49b036bae.svg",
+    "main.8cb13dc0.css.map": "/static/css/main.8cb13dc0.css.map",
+    "main.30db071e.js.map": "/static/js/main.30db071e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb13dc0.css",
+    "static/js/main.30db071e.js"
+  ]
+}
